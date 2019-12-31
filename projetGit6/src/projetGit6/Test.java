@@ -6,6 +6,7 @@ public class Test {
 		System.out.println("p6 t1");
 		System.out.println("p6 t2");
 		System.out.println("p6 t3");
+		System.out.println("p6 t4");
 
 	}
 
